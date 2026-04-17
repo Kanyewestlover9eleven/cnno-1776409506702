@@ -1,0 +1,1 @@
+module.exports = { content: ['./app/**/*.{js,ts,jsx,tsx}'], theme: { extend: { colors: { primary: 'Brown', secondary: 'Beige', accent: 'White', surface: 'Cream', 'surface-container-low': '#f2f4f2', 'on-surface': '#191c1b', 'on-surface-variant': '#3f4947' }, fontFamily: { headline: ['var(--font-headline)'], body: ['var(--font-body)'] } } } };
